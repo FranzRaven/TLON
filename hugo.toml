@@ -1,4 +1,4 @@
-baseURL = 'https://franzraven.github.io/TLON/'
+#baseURL = 'https://example.com/'
 languageCode = 'es-es'
 title = 'New TLÖN'
 theme = 'ananke'
