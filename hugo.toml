@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://franzraven.github.io/TLON/'
 languageCode = 'es-es'
 title = 'New TLÖN'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

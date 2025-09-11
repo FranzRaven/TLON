@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New TLÖN</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/TLON/</link>
     <description>Recent content on New TLÖN</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Thu, 11 Sep 2025 13:06:58 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/TLON/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Void_Linux_Manifesto</title>
-      <link>http://localhost:1313/posts/void_linux_manifesto/</link>
+      <link>http://localhost:1313/TLON/posts/void_linux_manifesto/</link>
       <pubDate>Thu, 11 Sep 2025 13:06:58 -0300</pubDate>
-      <guid>http://localhost:1313/posts/void_linux_manifesto/</guid>
+      <guid>http://localhost:1313/TLON/posts/void_linux_manifesto/</guid>
       <description>&lt;p&gt;Luego de instalar, usar y evaluar, que no sistemáticamente sino simplemente el derivado del uso sostenido, me decanté por Void Linux.&lt;br&gt;&#xA;Desconozco si es lo mejor, lo dudo; pareciera ser que cada persona y cada caso particular de uso es diferente por lo que arriesgar una escala cualitativa universal sería temerario.&lt;/p&gt;</description>
     </item>
   </channel>
