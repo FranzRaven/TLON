@@ -1,6 +1,6 @@
 +++
 date = '2025-09-11T13:06:58-03:00'
-draft = true
+draft = false
 title = 'Void_Linux_Manifesto'
 tags = 'Void Linux'
 +++
