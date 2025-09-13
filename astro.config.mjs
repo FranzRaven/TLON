@@ -6,7 +6,8 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://franzraven/github.io/TLON',
-	
+	site: 'https://franzraven/github.io',
+	base: '/TLON',
+	output: 'static',
 	integrations: [mdx(), sitemap()],
 });
