@@ -58,10 +58,10 @@ Instalar drivers de los repos de Void, luego ...
 	Ejemplo -->(wget https://developer.download.nvidia.com/compute/cuda/13.0.1/local_installers/cuda_13.0.1_580.82.07_linux.run)
 
 ### i3status.conf
-Descargar [i3status.conf](../../public/i3status.conf)
+Descargar [i3status.conf](../../public/i3/i3status.conf)
 
 ### i3 config
-Descargar i3 [config](../../public/config)
+Descargar i3 [config](../../public/i3/config)
 
 ### Broadcom 4312
 	git clone https://github.com/void-linux/void-packages
