@@ -9,4 +9,6 @@ export default defineConfig({
   site: 'https://franzraven.github.io',
   base: '/TLON',
   integrations: [mdx(), sitemap()],
+  outDir: "public",
+  publicDir: "static"
 });
